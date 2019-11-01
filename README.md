@@ -7,8 +7,10 @@ https://github.com/hirotakaster/CoAP-simple-library
 
 https://github.com/Tanganelli/CoAPthon
 
-How to use
+How to
 ========
+========
+
 
 Install git
 ========
@@ -36,5 +38,5 @@ cd /home/user/Documents/coapthon-server
 
 git clone https://github.com/Tanganelli/CoAPthon
 
-CoAPthon
-========
+cd CoAPthon
+
